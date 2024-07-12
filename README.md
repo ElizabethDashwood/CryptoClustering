@@ -1,9 +1,9 @@
 # CryptoClustering
 
-## Module 5 Homework Matplotlib CryptoClustering Challenge
+## Module 19 Homework CryptoClustering Challenge for Unsupervised Learning
 
 ### Description: 
-This is the Module 5 Homework Challenge for using Matplotlib with pandas in Jupyter Lab
+This is the Module 19 Homework Challenge for using Python and Unsupervised Learning.
 
 ### Getting started: 
 This challenge has 1 project called: CryptoClustering using a starter code csv file called crypto_market_data.csv
